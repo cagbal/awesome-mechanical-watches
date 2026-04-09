@@ -6,11 +6,21 @@ A meticulously curated list of exceptional mechanical watches that I like.
 
 ---
 
+## Brands 
+
+#### **Patek Philippe**
+* **Notes**:
+    * One of the most prestigious brands in horological history, holding immense cultural and historical leverage.
+    * Well known model families: Nautilus, Calatrava, Aquanaut, Grand Complication.
+
+---
+
+## Best watches for ADHD (Low maintenance, Wear and go)
+
 #### **Rolex Explorer 40**
 **Reference**: 224270
 * **Notes**:
-    * 40 mm
-    * Clear dial without a complication. Perfect for ADHD. 
-    * 3230 movement
-
+    * 40 mm.
+    * Clear dial without a date complication. Perfect for ADHD, minimizing the need for constant resetting if unworn for a few days. 
+    * Superlative Chronometer 3230 movement guarantees high reliability.
 ---
