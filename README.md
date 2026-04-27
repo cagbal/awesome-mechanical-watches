@@ -24,3 +24,12 @@ A meticulously curated list of exceptional mechanical watches that I like.
     * Clear dial without a date complication. Perfect for ADHD, minimizing the need for constant resetting if unworn for a few days. 
     * Superlative Chronometer 3230 movement guarantees high reliability.
 ---
+#### **Tudor Pelagos FXD**
+**Reference**: 25707B
+* **Notes**:
+    * 42 mm.
+    * Very sporty. 
+    * Titanium.
+    * Self-winding.
+    * Blue.
+---
